@@ -24,6 +24,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     return 0;
     delete[] b; 
-    std::cout << "HELLO " << std::endl;
+    std::cout << "HELLO     " << std::endl;
     //dinamikusan lefoglat memóriát törölni kell
 }
